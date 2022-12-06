@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### Every programmer has the obligation and responsibility to ensure the elegance of the code.
+
 <!--
 **amundsen-roald/amundsen-roald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
